@@ -25,7 +25,7 @@
  -Hackathon Track Winner: InnovateX’23 at NSUT, DELHI
  
  -Hackathon Winner: HackMAIT 4.0 at MAIT, DELHI
- 
+
  -Hackathon Second Runner Up: Innotech’23 at KIET, Ghaziabad 
 
  Happy Coding!

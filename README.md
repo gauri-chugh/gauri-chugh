@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gauri</h1>
 <h3 align="center">A passionate android developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwateradventure.ae%2Findex.html%3Fu%3Dportrait-animated-gif-on-behance-xx-ZYekznu4&psig=AOvVaw2ZlcEzxWvIHFF2IlkedGFh&ust=1716485767594000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjrsvjloYYDFQAAAAAdAAAAABAn">
+<img align="right" alt="Coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwateradventure.ae%2Findex.html%3Fu%3Dportrait-animated-gif-on-behance-xx-ZYekznu4&psig=AOvVaw2ZlcEzxWvIHFF2IlkedGFh&ust=1716485767594000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjrsvjloYYDFQAAAAAdAAAAABAn](https://dribbble.com/shots/15215756-Coding-Animation-Concept)">
 
 - 🔭 I’m currently working on [Ovarious- PCOS Tracker](https://github.com/gauri-chugh/Ovarious_pcosTracker)
 

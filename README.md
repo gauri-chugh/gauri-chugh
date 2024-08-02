@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Kotlin, React Native**
 
-- 💬 Ask me about **Android, core Java, Flutter**
+- 💬 Ask me about **Android, core Java, Kotlin**
 
 - 📫 How to reach me **gaurichugh03@gmail.com**
 
